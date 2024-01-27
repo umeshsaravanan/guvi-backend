@@ -1,7 +1,5 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const cors = require('cors');
-// const foodDetails = require('./models/foodDetails');
 const userDetails = require('./models/userDetails');
 const { ObjectId } = require('mongodb');
 
